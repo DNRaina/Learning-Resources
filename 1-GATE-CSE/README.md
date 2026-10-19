@@ -8,9 +8,9 @@ This directory contains official GATE Computer Science & Information Technology 
 
 ## 📊 Comprehensive Blueprint & Analysis Document
 
-| Document | Format | Description |
-| :--- | :---: | :--- |
-| [📝 **`Analysis.docx`**](./Analysis.docx) | Word Doc (`.docx`) | **GATE CSE 20-Year Previous-Paper Topic Analysis & Preparation Blueprint**<br />• Section-wise priorities (P1, P2, P3)<br />• Recurring concepts & question archetypes<br />• High-yield scoring areas & revision plan |
+| Document | Format | Size | Description |
+| :--- | :---: | :---: | :--- |
+| [📊 **`Analysis.pdf`**](./Analysis.pdf) | PDF Document (`.pdf`) | ~385 KB | **GATE CSE 20-Year Previous-Paper Topic Analysis & Preparation Blueprint**<br />• Section-wise priorities (P1, P2, P3)<br />• Recurring concepts & question archetypes<br />• High-yield scoring areas & revision plan |
 
 ---
 
