@@ -2,8 +2,8 @@
 
 [⬅️ Return to Main Directory](../README.md)
 
+[![YouTube Channel](https://img.shields.io/badge/YouTube-@dhruvnarayanraina-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@dhruvnarayanraina)
 [![Curriculum](https://img.shields.io/badge/Curriculum-Data%20Analyst%202026-blue?style=for-the-badge)](#-4-week-intensive-sprint-fast-track-career-blueprint)
-[![YouTube](https://img.shields.io/badge/YouTube-Verified%20Resources-red?style=for-the-badge&logo=youtube)](https://www.youtube.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](../LICENSE)
 
 A complete, structured curriculum and learning vault for aspiring and practicing **Data Analysts**. Includes an intensive 4-week fast-track sprint, essential toolchains, hands-on project ideas, and verified, direct search links to **free, high-yield YouTube tutorials, masterclasses, and playlists**.

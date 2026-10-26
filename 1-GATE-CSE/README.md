@@ -1,6 +1,8 @@
 # 🎓 GATE CSE — Previous Years Question Papers (2007 – 2026)
 
 [⬅️ Return to Main Directory](../README.md)
+[![YouTube Channel](https://img.shields.io/badge/YouTube-@dhruvnarayanraina-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@dhruvnarayanraina)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](../LICENSE)
 
 This directory contains official GATE Computer Science & Information Technology (CS/IT) previous year question papers from **2007 to 2026**, including both Set-1 (CS1) and Set-2 (CS2) papers where applicable, alongside a comprehensive 20-year topic analysis blueprint.
 
