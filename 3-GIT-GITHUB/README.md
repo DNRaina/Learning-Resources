@@ -3,12 +3,15 @@
 [⬅️ Return to Main Directory](../README.md)
 
 [![YouTube Channel](https://img.shields.io/badge/YouTube-@dhruvnarayanraina-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@dhruvnarayanraina)
+[![freeCodeCamp Course](https://img.shields.io/badge/Course-freeCodeCamp%20Git%20%26%20GitHub-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=RGOj5yH7evk)
 [![Guide](https://img.shields.io/badge/Guide-Git%20%26%20GitHub%20Mastery-blue?style=for-the-badge&logo=git)](#-6-hour-study-schedule)
 [![Interactive Practice](https://img.shields.io/badge/Practice-Learn%20Git%20Branching-orange?style=for-the-badge&logo=javascript)](https://learngitbranching.js.org/)
 [![GitHub Skills](https://img.shields.io/badge/GitHub-Skills-purple?style=for-the-badge&logo=github)](https://skills.github.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](../LICENSE)
 
 A structured, zero-fluff, hands-on plan engineered to take you from initial repository setup to collaborating with pull requests, resolving merge conflicts, and publishing a clean developer portfolio in **6 focused hours**.
+
+> 🎥 **Video Companion:** [freeCodeCamp Git & GitHub for Beginners Crash Course (YouTube)](https://www.youtube.com/watch?v=RGOj5yH7evk)
 
 ---
 
