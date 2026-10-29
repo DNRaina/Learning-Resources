@@ -22,6 +22,7 @@ Click any folder to view its contents, papers, and notes:
 | **01** | [📁 **`1-GATE-CSE`**](./1-GATE-CSE/) | **GATE CSE Official Question Papers (2007 – 2026) & Preparation Blueprint Analysis** |
 | **02** | [📁 **`2-DATA-ANALYST`**](./2-DATA-ANALYST/) | **Complete Data Analyst Roadmap, 4-Week Fast-Track Sprint & Curated Vault (2026 Edition)** |
 | **03** | [📁 **`3-GIT-GITHUB`**](./3-GIT-GITHUB/) | **6-Hour Git & GitHub Mastery Blueprint, Conflict Drills & Command Cheat Sheet** |
+| **04** | [📁 **`4-FLUTTER-DEVELOPMENT`**](./4-FLUTTER-DEVELOPMENT/) | **3-Month Flutter & Dart Mastery Roadmap: UI Layouts, State Management, Firebase & Capstone** |
 
 ---
 
