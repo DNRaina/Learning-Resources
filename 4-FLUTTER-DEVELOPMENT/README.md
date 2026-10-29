@@ -39,7 +39,7 @@ timeline
   - Asynchronous programming (`async`, `await`, `Future`, `Stream`).
 - **Best Resources:**
   - 📖 [Dart Official Documentation & Tour](https://dart.dev/)
-  - 🎥 [The Net Ninja Dart Tutorial (YouTube)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLRHX5WrOTGC0V4k5q1PBM)
+  - 🎥 [The Net Ninja Dart Tutorial (YouTube)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iVGY3ppchN9kIauln8IiEh)
 
 #### ⏱️ Weeks 3–4: Flutter Widgets, Layouts & Navigation
 - **Core Concepts:**
